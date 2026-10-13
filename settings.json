@@ -14,16 +14,16 @@
     {
       "name": "Cairo",
       "geo_id": "102007122",
-      "easy_apply": true,
+      "easy_apply": null,
       "work_type": "all",
       "enabled": true
     },
     {
       "name": "Egypt",
       "geo_id": "106155005",
-      "easy_apply": true,
+      "easy_apply": null,
       "work_type": "all",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Saudi Arabia",
